@@ -1,0 +1,218 @@
+.frame_2{
+position: relative;
+width: 348px;
+height: 157px;
+
+background: #FFFFFF;
+border-radius: 8px;
+margin: 20px;
+}
+.frame_2 .group_16{
+    display: flex;
+    align-items: center;
+    
+    position: absolute;
+    width: 308px;
+    height: 24px;
+    left: 20px;
+    top: 90px;
+    }
+    .group_12{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 160.73px;
+    height: 18px;
+    left: 0px;
+    top: 0px;
+    }
+    .elipse{
+        
+        position: absolute;
+        width: 8px;
+        height: 8px;
+        left: 13px;
+        top: 0px;
+        /* Red */
+        background: #EB5757;
+        border-radius: 50%;
+        border: 1px solid #FFFFFF;
+    }
+    .group_11{
+    position: relative;
+    width: 22.73px;
+    height: 18px;
+    left: 0px;
+    top: 0px;
+    }
+    .group_11 p{
+    position: absolute;
+    width: 8px;
+    height: 18px;
+    left: 14.73px;
+    top: 0px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+    /* Gray 3 */
+    color: #828282;
+    }
+    .clip{
+    position: absolute;
+    width: 7.46px;
+    height: 13.89px;
+    left: 0px;
+    top: 0px;
+    }
+    .group_10{
+    position: relative;
+    width: 28px;
+    height: 18px;
+    left: 0px;
+    top: 0px;
+    }
+    .comentarios{
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    left: 0px;
+    top: 0px;
+    /* Gray 3 */
+    }
+    .group_10 p{
+    position: absolute;
+    width: 7px;
+    height: 18px;
+    left: 21px;
+    top: 0px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+    /* Gray 3 */
+    color: #828282;
+    }
+    .group_9{
+    position: relative;
+    width: 62px;
+    height: 18px;
+    left: 0px;
+    top: 0px;
+    }
+    .group_9 p{
+    position: absolute;
+    width: 45px;
+    height: 18px;
+    left: 16px;
+    top: 0px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+    /* Gray 3 */
+    color: #828282;
+    }
+    .group_9 .calendario{
+        position: relative;
+        width: 16px;
+        height: 16px;
+        left: 0px;
+        top: 0px;
+      
+    }
+    .calendario .superior-calendario{
+    position: absolute;
+    top:-1px;
+    }
+    .frame_2 .persona{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 256px;
+    top: 0px;
+    }
+    .group_17{
+    position: absolute;
+    width: 308px;
+    height: 24px;
+    left: 20px;
+    top: 20px;
+    }
+    p{
+        position: absolute;
+        width: 308px;
+        height: 45px;
+        left: 20px;
+        top: 56px;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 19px;
+        /* Gray 2 */
+        color: #4F4F4F;  
+    }
+.frame_2 .frame_9{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4px 14px;
+
+position: absolute;
+width: 91px;
+height: 23px;
+left: 0px;
+top: 0px;
+
+background: rgba(155, 81, 224, 0.2);
+border-radius: 18px;
+}
+    .frame_2 .frame_9 p{
+        position: static;
+        width: 63px;
+        height: 15px;
+        left: 14px;
+        top: 4px;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 10px;
+        line-height: 15px;
+        /* identical to box height */
+        
+        text-align: center;
+        
+        /* Purple 1 */
+        
+        color: #9B51E0;
+        
+        
+        /* Inside Auto Layout */
+        
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin: 0px 0px;
+    }
+    .elipse_horizontal{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 256px;
+    top: 0px;
+    right: 20px;
+    }

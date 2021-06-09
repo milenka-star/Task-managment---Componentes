@@ -1,0 +1,247 @@
+.frame_37{
+    
+position: relative;
+width: 400px;
+height: 196px;
+
+background: #FFFFFF;
+border-radius: 8px;
+    margin: 20px;
+}
+.frame_37 .group_title h1{
+position: absolute;
+width: 138px;
+height: 24px;
+left: 20px;
+top: 20px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+/* Gray 1 */
+color: #333333;
+}
+.frame_37 .elipse_horizontal{
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        left: 350px;
+        top: 20px;
+        right: 20px;
+}
+.frame_37 .group_39{
+position: absolute;
+width: 131px;
+height: 42px;
+left: 20px;
+top: 68px;
+}
+.frame_37 .group_39 .group_text_39{
+    position: absolute;
+    width: 77px;
+    height: 37px;
+    left: 54px;
+    top: 0px;
+}
+.frame_37 .group_40{    
+position: absolute;
+width: 146px;
+height: 42px;
+left: 221px;
+top: 68px;
+}
+.frame_37 .group_40 .group_text_40{
+    position: absolute;
+    width: 150px;
+    height: 37px;
+    left: 54px;
+    top: 0px;
+}
+.frame_37 .group_41{    
+    position: absolute;
+    width: 132px;
+    height: 42px;
+    left: 20px;
+    top: 130px;
+}
+.frame_37 .group_41 .group_text_41{
+position: absolute;
+width: 78px;
+height: 37px;
+left: 54px;
+top: 0px;
+}
+.frame_37 .group_42{    
+position: absolute;
+width: 146px;
+height: 42px;
+left: 221px;
+top: 130px;
+}
+.frame_37 .group_42 .group_text_42{
+    position: absolute;
+    width: 92px;
+    height: 37px;
+    left: 54px;
+    top: 0px;
+}
+.frame_37 .group_39 .persona3{
+position: absolute;
+width: 42px;
+height: 42px;
+left: 0px;
+top: 0px;
+}
+.frame_37 .group_39 .group_text_39 h3{
+position: absolute;
+width: 77px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 19px;
+/* identical to box height */
+/* Gray 2 */
+color: #4F4F4F;
+}
+.frame_37 .group_39 .group_text_39 p{
+
+    position: absolute;
+    width: 90px;
+    height: 17px;
+    left: 0px;
+    top: 20px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    /* Gray 3 */
+    
+    color: #828282;
+    
+}
+
+.frame_37 .group_40 .persona2{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    }
+    .frame_37 .group_40 .group_text_40 h3{
+    position: absolute;
+    width: 120px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 19px;
+    /* identical to box height */
+    /* Gray 2 */
+    color: #4F4F4F;
+    }
+    .frame_37 .group_40 .group_text_40 p{
+    position: absolute;
+    width: 120px;
+    height: 17px;
+    left: 0px;
+    top: 20px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 16px;
+    /* identical to box height */
+    /* Gray 3 */
+    color: #828282;
+    }
+.frame_37 .group_41 .persona1{
+position: absolute;
+width: 42px;
+height: 42px;
+left: 0px;
+top: 0px;
+}
+    .frame_37 .group_41 .group_text_41 h3{
+        position: absolute;
+        width: 120px;
+        height: 20px;
+        left: 0px;
+        top: 0px;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 19px;
+        /* identical to box height */
+        /* Gray 2 */
+        color: #4F4F4F;
+        }
+        .frame_37 .group_41 .group_text_41 p{
+        position: absolute;
+        width: 120px;
+        height: 17px;
+        left: 0px;
+        top: 20px;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 16px;
+        /* identical to box height */
+        /* Gray 3 */
+        color: #828282;
+        }
+.frame_37 .group_42 .circulo_cortado{
+position: absolute;
+width: 42px;
+height: 42px;
+left: 0px;
+top: 0px;
+box-sizing: border-box;
+}
+.frame_37 .group_42 .persona_plus{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 10px;
+    top: 10px;
+}
+.frame_37 .group_42 p{
+    position: absolute;
+    width: 87px;
+    height: 20px;
+    left: 54px;
+    top: 10px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    /* Gray 2 */
+    
+    color: #4F4F4F;
+}
